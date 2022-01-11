@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_mission_mission_ethos",
+  "info": {
+    "displayName": "mission_ethos",
+    "icon": "award"
+  },
+  "options": {},
+  "attributes": {
+    "mission": {
+      "displayName": "mission",
+      "type": "component",
+      "repeatable": false,
+      "component": "mission.mission"
+    },
+    "ethos": {
+      "displayName": "ethos",
+      "type": "component",
+      "repeatable": false,
+      "component": "ethos.ethos"
+    }
+  }
+}

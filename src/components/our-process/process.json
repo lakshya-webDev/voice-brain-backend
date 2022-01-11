@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_our_process_processes",
+  "info": {
+    "displayName": "process",
+    "icon": "arrow-left"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

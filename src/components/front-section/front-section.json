@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_front_section_front_sections",
+  "info": {
+    "displayName": "frontSection",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "section_name": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

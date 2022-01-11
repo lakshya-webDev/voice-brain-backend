@@ -1,0 +1,58 @@
+{
+  "kind": "collectionType",
+  "collectionName": "homepages",
+  "info": {
+    "singularName": "homepage",
+    "pluralName": "homepages",
+    "displayName": "homepage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "mainSection": {
+      "displayName": "frontSection",
+      "type": "component",
+      "repeatable": false,
+      "component": "front-section.front-section"
+    },
+    "barbarians": {
+      "displayName": "barbarians",
+      "type": "component",
+      "repeatable": false,
+      "component": "barbarians.barbarians"
+    },
+    "ourProcessSection": {
+      "displayName": "process",
+      "type": "component",
+      "repeatable": false,
+      "component": "our-process.process"
+    },
+    "tageLineSection": {
+      "displayName": "tag line",
+      "type": "component",
+      "repeatable": false,
+      "component": "tage-line.tag-line"
+    },
+    "whatWeDoSection": {
+      "displayName": "whatwedo",
+      "type": "component",
+      "repeatable": false,
+      "component": "what-we-do.whatwedo"
+    },
+    "missionSection": {
+      "displayName": "mission_ethos",
+      "type": "component",
+      "repeatable": false,
+      "component": "mission.mission-ethos"
+    },
+    "serviceSection": {
+      "displayName": "serviceSection",
+      "type": "component",
+      "repeatable": false,
+      "component": "service.service-section"
+    }
+  }
+}

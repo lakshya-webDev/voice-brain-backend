@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_ethos_ethos",
+  "info": {
+    "displayName": "ethos",
+    "icon": "angle-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "section_name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

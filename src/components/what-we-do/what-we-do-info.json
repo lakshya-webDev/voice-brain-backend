@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_what_we_do_what_we_do_infos",
+  "info": {
+    "displayName": "what we do info",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "technology_name": {
+      "type": "string"
+    },
+    "technology_title": {
+      "type": "richtext"
+    },
+    "technology_description": {
+      "type": "richtext"
+    }
+  }
+}

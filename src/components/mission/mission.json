@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_mission_missions",
+  "info": {
+    "displayName": "mission",
+    "icon": "arrows-alt-v",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "section_name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_tage_line_tag_lines",
+  "info": {
+    "displayName": "tag line",
+    "icon": "certificate"
+  },
+  "options": {},
+  "attributes": {
+    "tag_line": {
+      "type": "string"
+    }
+  }
+}

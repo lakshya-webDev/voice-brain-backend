@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_what_we_do_what_we_dos",
+  "info": {
+    "displayName": "what we do",
+    "icon": "blind"
+  },
+  "options": {},
+  "attributes": {
+    "section_name": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

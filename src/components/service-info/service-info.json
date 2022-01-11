@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_service_info_service_infos",
+  "info": {
+    "displayName": "serviceInfo",
+    "icon": "angle-up"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

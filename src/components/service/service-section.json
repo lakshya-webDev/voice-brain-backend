@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_service_service_sections",
+  "info": {
+    "displayName": "serviceSection",
+    "icon": "asterisk"
+  },
+  "options": {},
+  "attributes": {
+    "serviceInfo": {
+      "displayName": "serviceInfo",
+      "type": "component",
+      "repeatable": true,
+      "component": "service-info.service-info"
+    }
+  }
+}
